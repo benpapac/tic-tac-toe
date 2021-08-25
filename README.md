@@ -3,17 +3,10 @@
 ## User Stories
 
 **MVP**
-Player is assigned Xs or Os.
-Player goes first.
-Turns switch between players...
-and update the players. 
-    Player's turn begins.
-    Player sees grid map.
-    Player chooses square on map.
-    Player's turn ends.
-Player's symbol appears on chosen square.
-When a player achieves a row, or all squares are full, game ends.
-Game Over alert.
+As a player, I want to know which "team" I'm on, so I don't confuse the characters.
+As a player, I want to see the board update after each choice, so I know which choices are still available.
+As a player, I want to be updated when it's my turn, so I know when I can make a new choice.
+As a player, I want to know if I won, lost, or tied with my opponent.
 
 **Bronze**
 You can choose "Play Again" after your game.
