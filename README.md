@@ -25,3 +25,11 @@ Play vs PC! >>> Design PC choice program
 Player Lobby
 Online PVP and automatching.
 Leaderboard!
+
+## Wireframes
+
+URL link: 
+![wireframe jpg](https://github.com/benpapac/tic-tac-toe/issues/2)
+
+Uploading file here
+![Tic Tac Toe Wireframe](/WireFrame_TicTacToe.jpg)
